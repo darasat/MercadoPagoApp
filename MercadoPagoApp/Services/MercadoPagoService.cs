@@ -1,13 +1,9 @@
 ﻿using MercadoPago.Client.Payment;
 using MercadoPago.Config;
 using MercadoPago.Resource.Payment;
-using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System;
-using System.Net.Http;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace MercadoPagoApp.Services
 {
